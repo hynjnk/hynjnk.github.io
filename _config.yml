@@ -13,10 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hachijo's Blog
+title: Hyunjoon KIM's Blog
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Github pageとJekyllを使ってBlogを作ってみました。
   Github page와 Jekyll을 사용해서 블로그를 만들어 봤습니다.
 #Write an awesome description for your new site here. You can edit this
 #line in _config.yml. It will appear in your document head meta (for
@@ -24,8 +23,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: xia_rev
-github_username: hachijo31 
+#twitter_username: hynjnk
+github_username: hynjnk
 
 # Build settings
 markdown: kramdown
