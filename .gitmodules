@@ -1,0 +1,3 @@
+[submodule "content"]
+	path = content
+	url = git@github.com:hynjnk/hynjnk.github.io-contents.git
